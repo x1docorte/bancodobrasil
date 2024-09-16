@@ -1,0 +1,19 @@
+md-dialog {background-color: white;}
+
+md-dialog .erro-conteudo {padding: 15px; max-height: 288px; min-height: 125px; overflow: auto;}
+md-dialog .erro-cabecalho{width: 100%; float: left;  display: table;background-color: #F8D117;}
+md-dialog .erro-cabecalho span{display: table-cell;vertical-align: middle;height: 35px;text-align: center;color: #0a39ab;font-weight: bold;font-size: 40px;letter-spacing: -2px;}
+md-dialog .erro-titulo{width: 100%; float: left;  display: table; padding: 0px 14px;}
+md-dialog .erro-titulo span{display: table-cell;vertical-align: middle;height: 50px;text-align: left;color: #0a39ab;font-size: 20px;}
+
+md-dialog .erro-cabecalho{background-color: #063657;}
+md-dialog .erro-cabecalho span{color: #ffffff;}
+
+/*.caixa {min-height: 240px; min-width: 240px;}*/
+@media screen and (min-width: 361px) {
+    .caixa md-dialog{max-height: 90%; max-width: 400px; min-height: 240px; min-width: 240px;}    
+}
+  
+@media screen and (max-width: 360px) {
+    .caixa md-dialog{max-height: 90%; max-width: 300px; min-height: 240px; min-width: 240px;}        
+}

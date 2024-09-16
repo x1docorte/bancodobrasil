@@ -1,0 +1,150 @@
+.fundo-azul {
+  background-color:  #005aa5;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.botao-amarelo {
+  display:block;     
+  text-transform: uppercase; 
+  font-weight: 600;
+  
+  padding: 0.3rem;
+  width: 100%;
+  text-align: center;
+  border-radius: 3px;
+  background-color: #ffef00; 
+  color: #005070;
+  border: 0;
+  height: 4em;
+  cursor: pointer;
+}
+
+.is-centered {
+  text-align: center;
+}
+
+.is-white {
+  color: white;
+}
+
+.is-fundo-branco {
+  background-color: white;
+}
+
+.is-fundo-verde {
+  background-color: green;
+}
+
+.is-fundo-cinza {
+  background-color: gray;
+}
+
+.no-centro-vertical {
+  top: 50%;
+  bottom: 0;
+}
+
+.caixa-centralizada {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+.welcome-section {
+  text-align: center;
+  padding: 25px;
+}
+
+.welcome {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.page-section {
+  padding: 5px;
+}
+
+.logo {
+    align-self: center;
+    border: 3px solid rgba(255, 255, 255, 0.07);
+    border-radius: 5px;
+    opacity: 1;
+    transition: opacity 0.3s linear 0s;
+    margin: 25px 1px 10px;
+    width: 5em;
+    height: 5em;
+}
+
+.logo-circular {
+  align-self: center;
+  border: 3px solid rgba(255, 255, 255, 0.07);
+  border-radius: 3em;
+  opacity: 1;
+  transition: opacity 0.3s linear 0s;
+  margin: 25px 1px 10px;
+  width: 5em;
+  height: 5em;
+}
+
+
+.is-subtitulo-azul {
+  color: #6fa0cb;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.item-lista {
+  font-weight: 600;  
+  padding: .1em .1em !important;
+}
+
+.titulo-autorizacao {
+  font-size: 0.8rem;
+  letter-spacing: 0.5px;
+  color: white;
+  text-align: center;
+}
+
+.texto-permissoes {
+  color: white;
+  font-size: 15px;
+  word-spacing: 1px;
+  font-family: helvetica;  
+}
+
+img.authorization-check {
+  vertical-align: middle;
+}
+
+.oat-spinner {
+	opacity: 0.5;
+  pointer-events: none;
+  background-image: url("../imagens/carregando.gif") ;
+  background-color: #c0c0c0;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size : 100px 100px;
+  position: relative;
+  z-index: 999 !important;
+}
+
+.instrucao {
+  text-align: right; 
+  font-size: 14px; 
+  color: #6fa0cb;
+}
+
+.otp-verification-code {
+  margin-bottom: 24px;
+}

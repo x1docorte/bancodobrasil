@@ -1,0 +1,24 @@
+.tabela-contas {
+    width: 68%;
+    margin-left: 16%;
+    background-color: #005aa5;
+}
+
+.contas-agencia {
+    color: white !important;
+    width: 50%;
+    text-align: right !important;
+    padding-right: 5px;
+}
+
+.contas-conta {
+    color: white !important;
+    width: 50%;
+    text-align: left !important;
+    padding-left: 5px;
+}
+
+.contas-linha:hover {
+    cursor: pointer;
+    background-color: #7cbff8 !important;
+}

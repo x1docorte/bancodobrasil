@@ -1,0 +1,7 @@
+a.link-termo:hover {
+    text-decoration: underline;
+}
+a.link-termo {
+    color: white;
+    font-weight: 600;
+}

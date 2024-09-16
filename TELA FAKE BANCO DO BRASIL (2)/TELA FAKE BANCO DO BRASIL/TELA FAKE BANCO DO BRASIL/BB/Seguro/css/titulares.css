@@ -1,0 +1,43 @@
+.inicial-titular {
+    color: white;
+    color: white;
+    background-color: #58a1de;
+    text-align: center;
+    padding: 10px;
+    font-size: 2em;
+    font-weight: 600;
+    width: 15%;
+}
+
+.numero-titular {
+    color: white;
+    background-color: #005aa5;
+    text-align: left;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.nome-titular {
+    color: #58a1de;
+    background-color: #005aa5;
+    text-align: left;
+    width: 100%;
+    padding-left: 10px;
+}
+
+table.titulares {
+    width: 100%;
+    margin: 0.1px;
+}
+
+td.coluna-foto {
+    min-width: 5.3em;
+}
+
+img.imagem-titular {
+    border-radius: 3em;
+    display: inline;
+    border: solid;
+    width: 5em;
+    height: 5em;
+}

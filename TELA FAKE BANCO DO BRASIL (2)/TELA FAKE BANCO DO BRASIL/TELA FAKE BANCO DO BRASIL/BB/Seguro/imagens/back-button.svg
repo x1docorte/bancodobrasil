@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="../../../../../../external.html?link=http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#E7E7EB">
+            <polygon id="Disclosure-Indicator" transform="translate(8.000000, 9.500000) scale(-1, 1) translate(-8.000000, -9.500000) " points="4 4.5 5.5 3 12 9.5 5.5 16 4 14.5 9 9.5"></polygon>
+        </g>
+    </g>
+</svg>

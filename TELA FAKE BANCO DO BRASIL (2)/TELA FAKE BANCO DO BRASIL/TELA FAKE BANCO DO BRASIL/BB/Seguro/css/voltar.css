@@ -1,0 +1,7 @@
+a.voltar {
+    color: 3273dc;    
+}
+
+a.voltar:hover {
+    color: white !important;
+}
